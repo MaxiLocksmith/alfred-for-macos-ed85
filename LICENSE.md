@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS plugin with Alfred for macOS automatic Plugin: snapshot-rollback & dark-mode. Featuring snapshot-rollback and dark-mode, it's the best choice for
 
 
 
